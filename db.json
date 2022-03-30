@@ -1,0 +1,67 @@
+{
+    "student"     : [
+        {
+            "Roll"                  : 1,
+            "Name"                :"Joy Sarker",
+            "Age"                 : 30,
+            "Location"            : "Dhaka",
+            "Class"               : "5 th",
+            "Gender"              : "Male"
+        }, 
+        {
+            "Roll"                : 2,
+            "Name"                :"Bijoy",
+            "Age"                 : 20,
+            "Location"            : "Dhaka",
+            "Class"               : "5 th",
+            "Gender"              : "Male"
+        }, 
+        {
+            "Roll"                : 3,
+            "Name"                :"Asraful Haqe",
+            "Age"                 : 30,
+            "Location"            : "Mirpur",
+            "Class"               : "5 th",
+            "Gender"              : "Male"
+        }, 
+        {
+            "Roll"                : 1,
+            "Name"                :"Kalak mia",
+            "Age"                 : 30,
+            "Location"            : "Dhaka",
+            "Class"               : "5 th",
+            "Gender"              : "Male"
+        } 
+    ],
+    "Deves"        : [
+        {
+            "id"                  : 1,                  
+            "name"                : "Shobuj mia", 
+            "skill"               :"Dingo",
+            "income"              :200,
+            "location"            :"Uttara"
+        },
+        {
+            "id"                  : 1,                  
+            "name"                : "Shobuj mia", 
+            "skill"               :"Dingo",
+            "income"              :200,
+            "location"            :"Uttara"
+        },
+        {
+            "id"                  : 1,                  
+            "name"                : "Shobuj mia", 
+            "skill"               :"Dingo",
+            "income"              :200,
+            "location"            :"Uttara"
+        },
+        {
+            "id"                  : 1,                  
+            "name"                : "Shobuj mia", 
+            "skill"               :"Dingo",
+            "income"              :200,
+            "location"            :"Uttara"
+        }
+        
+    ]
+}
